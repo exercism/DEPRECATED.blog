@@ -1,0 +1,6 @@
+baseurl = "http://blog.exercism.io"
+languageCode = "en-us"
+title = "exercism"
+
+[params]
+  description = "Improving programming skills through practice and conversation."
