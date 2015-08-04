@@ -1,0 +1,12 @@
+#!/bin/bash
+
+path="/usr/local/blog"
+now=$(date "+%Y%m%d%H%M%S")
+deploy="$path/deploy-$now"
+
+tar -cvzf deploy/blog.tar.gz public
+
+ssh $SERVER "mkdir -p $deploy"
+scp deploy/blog.tar.gz $SERVER:$deploy
+ssh $SERVER "tar xvfz $deploy/blog.tar.gz -C $deploy/"
+ssh $SERVER "unlink $path/current; ln -s $deploy $path/current"
