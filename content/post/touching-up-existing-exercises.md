@@ -27,9 +27,10 @@ This means that we often make choices that are informed by experiences gained
 from working in other languages. As the saying goes, you can write FORTRAN in
 any language.
 
-Oh, yeah: also we're human, not humanoids. We have extremely limited
-cognitive resources, which leads us to have charming idiosyncracies and
-make interesting mistakes.
+Oh, yeah: also [we're human, not
+humanoids](https://www.youtube.com/watch?v=FKTxC9pl-WM). We have extremely
+limited cognitive resources, which leads us to have charming idiosyncracies
+and make interesting mistakes.
 
 ## Exercises Evolve
 
