@@ -119,8 +119,7 @@ An exercism exercise consists of a **README**, a **test suite**, and a
 
 The README is shared between all the language tracks, and lives in a [separate
 repository](https://github.com/exercism/x-common), and the process will be
-[slightly
-different](https://github.com/exercism/x-api/blob/master/CONTRIBUTING.md#metadata).
+[slightly different](/post/updating-an-exercise-readme).
 
 The reference solution does not need to be great code; it's currently not used for
 anything beyond making sure that the test suite is coherent. It will be named
