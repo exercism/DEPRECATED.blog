@@ -3,8 +3,6 @@ date = "2015-08-08"
 title = "Updating an Exercise README"
 +++
 
-## Challenge
-
 The Exercism exercise README treads a very fine line between useful ambiguity and confusing vagueness. Because the README is the same whether you're solving the problem in C++ or in Lua, the problem description needs to be high-level enough to allow for the syntactic, semantic, and philosophical differences in the various languages. In other words: no specific references to syntax or data structures of a specific language can be used to further clarify a problem.
 
 However, within this purposeful ambiguity might lie some opportunities for making an exercise description more clear. Typical issues to be attentive to:
