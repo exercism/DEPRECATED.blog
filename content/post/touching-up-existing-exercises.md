@@ -16,7 +16,7 @@ much thought. This isn't done out of carelessness, but from a sense
 of experimentation.
 
 Also, exercises are often made up for one language, and then later used
-to bootstrap a other languages. Things that are idiomatic in one language,
+to bootstrap other languages. Things that are idiomatic in one language,
 are often awkward in others.
 
 To make matters more interesting, language tracks are often started by a
